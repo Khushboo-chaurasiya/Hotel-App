@@ -1,0 +1,233 @@
+.trHotel,
+.tdHotel,
+table {
+  border: 3px solid black !important;
+  margin: auto;
+  padding-top: 3px !important;
+  height: 60px !important;
+  cursor: pointer;
+}
+
+table {
+  border-style: hidden;
+  background-color: white;
+  padding-right: 1%;
+  color: white;
+}
+
+.tableHotel {
+  position: absolute !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important;
+  font-weight: 550;
+  width: 20%;
+  margin: auto;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+
+.tableCenter {
+  width: 201%;
+  margin: auto;
+  text-align: center;
+}
+
+.trCenter,
+.tdCenter,
+.tablebCenter {
+  border: 3px solid grey !important;
+  margin: auto;
+  padding-top: 3px !important;
+  height: 48px !important;
+}
+.pinHeader{
+  padding-left: 10px;
+  text-align:left;
+  height:7vh;
+}
+.section1{
+  float:left !important;
+  width:100%;
+  margin-bottom: 5% !important;
+}
+.HotelHomeApp {
+  margin-top: 6vh !important;
+  padding: 1%;
+  color: white;
+  padding-bottom: 500px !important;
+}
+
+.btn {
+  border-radius: 40%;
+  background-color: rgb(182, 250, 103);
+}
+
+.Time {
+  color: #00ff00;
+}
+
+.Time2 {
+  background-color: rgb(160, 255, 52);
+  color :rgba(0, 0, 0, 1)
+}
+
+/* html{
+      background-color: black;
+  } */
+
+.Left {
+  background-color: seashell;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  padding: 1%;
+  margin: 1%;
+  
+}
+
+.cardImage{
+  height:25vh;
+  width:200px;
+}
+
+.btnCenter {
+  width: "100px";
+}
+
+.btnHome {
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.border {
+  border: 3px solid grey !important;
+  margin: auto;
+}
+
+.btnDelete {
+  background-color: red;
+  border: none;
+  color: black;
+  font-weight: 600;
+  padding: 8px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btnEdit {
+  background-color: yellow;
+  border: none;
+  color: black;
+  font-weight: 600;
+  padding: 8px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btnPlus {
+  background-color: red;
+  border: none;
+  color: black;
+  font-weight: 600;
+  padding: 8px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.paraCSS {
+  position:fixed;
+  top:0;
+  left:0;
+
+  width: 100%;
+  background-color: rgb(160, 255, 52);
+  display: flex;
+  justify-content: space-between;
+  align-items: center !important;
+  z-index: 1;
+}
+
+.footer {
+  padding: 1%;
+  /* margin: 0.5%; */
+  color: black;
+  display: flex;
+  justify-content:center;
+  flex-wrap: wrap;
+}
+
+.btnGrey {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 8px 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button{
+  min-width: 100px;
+  margin-right:5px !important;
+}
+
+.topHeader{
+  margin-left: 1%;
+}
+
+td{
+  color:black
+}
+
+.styled-table {
+  font-size: 0.8em;
+  font-family: sans-serif;
+  background-color: white;
+  font-weight: 500 !important;
+  border: 3px solid black !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  margin-top:2.2% !important;
+}
+
+
+.styled-table th,
+.styled-table td {
+  text-align: center;
+    padding: 6px 5px;
+    border : 2px solid black;
+}
+
+.alignItem td {
+    padding: 12px 25px !important;
+}
+
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid black;
+}
+
+.styled-table tr:first-of-type{
+  font-weight: 700;
+}
+
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879 !important;
+}
+.circleBtn{
+  border-radius: 10%;
+  padding: 7px !important;
+  background-color: chartreuse;
+  font-weight: 700;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+}
+
+.MarginTop{
+  margin-top: 10vh !important;
+}
+
+.Link{
+  color:black !important;
+}

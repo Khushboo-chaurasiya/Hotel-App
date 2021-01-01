@@ -1,0 +1,32 @@
+body{
+  background-image: url(./Images/back.jpg);
+}
+
+
+.paraCSSEnd {
+  padding-right: 0% !important;
+  padding-left: 0% !important;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: rgb(160, 255, 52);
+  margin-bottom: 0% !important;
+ 
+  
+}
+
+.grouped {
+  display: flex;
+  margin-left: 1%;
+  box-sizing: border-box !important;
+  width:98%;
+  justify-content: flex-end !important;
+}
+
+.wholeBody{
+  margin-top: 4% !important;
+}
