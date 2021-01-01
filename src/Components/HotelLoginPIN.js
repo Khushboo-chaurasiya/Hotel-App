@@ -32,6 +32,15 @@ function HotelLoginPIN(props) {
 
     return (
         <div>
+            <div className="paraCSS">
+                <div className="topHeader">
+                    Welcome to <b>Panjabi Kitchen</b>
+                </div>
+                <div className="footer">
+                    <div>&nbsp;</div>
+                </div>
+        
+            </div>
 
         <div className="HotelApp">
         
